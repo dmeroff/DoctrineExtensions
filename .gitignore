@@ -5,3 +5,4 @@ composer.lock
 phpstan.neon
 tests/.phpunit.result.cache
 tests/phpunit.xml
+.idea
